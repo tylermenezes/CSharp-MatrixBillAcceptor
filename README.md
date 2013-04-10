@@ -11,7 +11,7 @@ Getting Started
 
 Add the project as a reference, then just bind to a bill acceptor with the following:
 
-    BillAcceptor acceptor = new BillAcceptor();
+    MatrixBillAcceptor acceptor = new BillAcceptor();
 
 Configuring
 -----------
